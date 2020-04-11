@@ -7,4 +7,4 @@ This is still a work in progress. Someday I plan to comeback and finish
 it.
 
 I am putting it up here so that I don't lose it. to view my design one 
-needs to download logisim.
+needs to download logisim, or checkout the screenshot.
